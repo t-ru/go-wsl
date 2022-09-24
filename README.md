@@ -1,4 +1,4 @@
 # go-wsl
 Wrapper for WSL (wsl.exe)
 
-[linebreakconverter](../go-utils/pkg/linebreakconverter/)
+https://github.com/t-ru/go-utils/tree/master/pkg/wsl
